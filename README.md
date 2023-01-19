@@ -21,3 +21,6 @@ y por ultimo si queres consultar los modelos que fueron consultados en nuestra b
 http://127.0.0.1:8000/AppCoder/busquedaModelos
 
 Te esperamos!
+
+Usuario Adm: Johanna
+Clave Adm: Coder:1234
